@@ -1,32 +1,32 @@
 {
   "agenda": {
-    "agenda_title": "Gabrielle Ricci and DD&T LT Visit",
+    "agenda_title": "Gabriele Ricci and DD&T LT Visit",
     "location": "Bengaluru ICC",
     "visit_type": "Executive Visit",
     "duration_days": 3,
-    "theme": "Leadership alignment, ICC overview, capability showcase, and strategic dialogue",
+    "theme": "Leadership alignment, ICC overview, and DD&T capability showcase",
     "assumptions": [
-      "Visit is planned as a 3-day executive visit based on catalog default.",
-      "Gabrielle Ricci is the primary visitor and is included in all visitor-facing sessions.",
-      "DD&T LT refers to the Data & AI leadership team and is the main internal audience for leadership sessions."
+      "Visit is planned as an Executive Visit based on the LT focus and brief.",
+      "Start date remains TBD; dates are left blank.",
+      "Lunch is scheduled around 12:15-13:00 each day per site rules."
     ],
     "missing_information": [
-      "Gabrielle Ricci role/title not provided.",
-      "Exact visit dates not provided; agenda is date-agnostic.",
-      "Any specific DD&T LT attendees beyond the leadership team are not listed."
+      "Exact visit date is missing.",
+      "Any specific DD&T LT attendees beyond Gabriele Ricci are missing.",
+      "Whether an offsite dinner is desired is not specified."
     ],
     "open_questions": [
-      "What are the exact visit dates for Day 1-3?",
-      "Should Gabrielle Ricci attend all sessions or only leadership-facing blocks?",
-      "Are there any must-include business areas or projects for the DD&T LT visit?",
-      "Do you want an offsite dinner or employee townhall included?"
+      "What is the exact visit start date for Day 1?",
+      "Which DD&T LT members should be included as attendees?",
+      "Do you want an offsite dinner on any of the 3 days?",
+      "Should any specific business demos or teams be prioritized beyond the standard Executive Visit flow?"
     ],
     "days": [
       {
         "day_number": 1,
         "date": "June 8, 2026",
         "day_title": "DD&T Leaders Interaction with Local Talent",
-        "day_theme": "Welcome and executive context setting",
+        "day_theme": "Arrival, site orientation, and leadership alignment",
         "sessions": [
           {
             "event_no": 1,
@@ -178,7 +178,7 @@
         "day_number": 2,
         "date": "June 9, 2026",
         "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-        "day_theme": "Deep dive into data and AI capabilities",
+        "day_theme": "Showcase AI capabilities and business use cases",
         "sessions": [
           {
             "event_no": 1,
@@ -474,7 +474,7 @@
         "day_number": 3,
         "date": "June 10, 2026",
         "day_title": "Visit to Accenture",
-        "day_theme": "Priorities, feedback and closeout",
+        "day_theme": "Employee connect, culture, and leadership close",
         "sessions": [
           {
             "event_no": 1,
@@ -661,7 +661,7 @@
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 1,
       "time": "09:00 - 10:45",
       "topic": "Arrival & Welcome",
@@ -676,14 +676,14 @@
       "briefing_book_disc": "Welcome, Arrival. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up. Catalog note: Always day 1 first slot.",
       "room_fit": "Welcome, Arrival",
       "owner_role": "Head of ICC India",
-      "display_description": "Reception at ICC India with welcome support, access coordination, and initial site orientation. Helps leaders settle in before the Day 1 engagements begin.",
-      "narration_script": "Day 1 - Arrival & Welcome. Reception at ICC India with welcome support, access coordination, and initial site orientation. Helps leaders settle in before the Day 1 engagements begin. Hosted by Sanjay / Tilak/ ICC Host."
+      "display_description": "Reception at ICC India with welcome support, access coordination, and an initial orientation to the site. This opening moment helps visiting leaders settle in smoothly before Day 1 engagements begin. The welcome sets a calm and organized tone for the visit, with practical support in place as the agenda gets underway. It also provides a natural transition into the first leadership interactions and site-based sessions.",
+      "narration_script": "Day 1 - Arrival & Welcome. Reception at ICC India with welcome support, access coordination, and an initial orientation to the site. This opening moment helps visiting leaders settle in smoothly before Day 1 engagements begin. The welcome sets a calm and organized tone for the visit, with practical support in place as the agenda gets underway. It also provides a natural transition into the first leadership interactions and site-based sessions. Hosted by Sanjay / Tilak/ ICC Host."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 2,
       "time": "11:00 - 12:00",
       "topic": "Gabriele Ricci’s connect with ICC LT",
@@ -698,14 +698,14 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Leadership connect with the ICC Leadership Team to discuss priorities, local capabilities, and opportunities for deeper alignment. Focused on relationship-building and strategic context.",
-      "narration_script": "Day 1 - Gabriele Ricci’s connect with ICC LT. Leadership connect with the ICC Leadership Team to discuss priorities, local capabilities, and opportunities for deeper alignment. Focused on relationship-building and strategic context. Hosted by Tilak."
+      "display_description": "A leadership connect with the ICC Leadership Team to discuss priorities, local capabilities, and opportunities for deeper alignment. The conversation is centered on relationship-building while also providing strategic context for the visit. Placed early in the flow, this session helps establish a shared understanding of the local environment and the themes that will shape the remainder of the program. It creates a useful bridge between welcome activities and the broader leadership agenda.",
+      "narration_script": "Day 1 - Gabriele Ricci’s connect with ICC LT. A leadership connect with the ICC Leadership Team to discuss priorities, local capabilities, and opportunities for deeper alignment. The conversation is centered on relationship-building while also providing strategic context for the visit. Placed early in the flow, this session helps establish a shared understanding of the local environment and the themes that will shape the remainder of the program. It creates a useful bridge between welcome activities and the broader leadership agenda. Hosted by Tilak."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 3,
       "time": "12:00 - 13:00",
       "topic": "CVG Lunch Event",
@@ -720,14 +720,14 @@
       "briefing_book_disc": "Demos, working sessions. Owner role: PDT Lead. Owner topics: PDT lab, business immersion. Catalog note: Employee engagement, culture programs.",
       "room_fit": "Demos, working sessions",
       "owner_role": "PDT Lead",
-      "display_description": "Culture and Values Group lunch with Gabriele Ricci, CVG members, Amanda, and Sanjay. Creates space for informal engagement around culture, values, and local community.",
-      "narration_script": "Day 1 - CVG Lunch Event. Culture and Values Group lunch with Gabriele Ricci, CVG members, Amanda, and Sanjay. Creates space for informal engagement around culture, values, and local community. Hosted by CVG Team."
+      "display_description": "A Culture and Values Group lunch with Gabriele Ricci, CVG members, Amanda, and Sanjay. The setting creates space for informal engagement around culture, values, and the local community. As part of the midday flow, the lunch offers a relaxed environment for connection and conversation. It complements the more structured sessions by bringing a personal and people-focused dimension to the visit.",
+      "narration_script": "Day 1 - CVG Lunch Event. A Culture and Values Group lunch with Gabriele Ricci, CVG members, Amanda, and Sanjay. The setting creates space for informal engagement around culture, values, and the local community. As part of the midday flow, the lunch offers a relaxed environment for connection and conversation. It complements the more structured sessions by bringing a personal and people-focused dimension to the visit. Hosted by CVG Team."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 4,
       "time": "12:00 - 13:00",
       "topic": "Malti, Tom & Julie’s Lunch with ICC India Employees",
@@ -739,16 +739,16 @@
       "category": "Meal",
       "status": "Confirmed",
       "preferred_image": "office_colorful_cafeteria_lounge.jpg",
-      "briefing_book_disc": "PDT walkthroughs, business immersion. Catalog note: Coordinate nominations 2 weeks ahead.",
-      "room_fit": "PDT walkthroughs, business immersion",
-      "display_description": "Lunch interaction for Malti, Tom, and Julie with ICC India employees. Provides an informal setting to connect with local teams and understand employee perspectives.",
-      "narration_script": "Day 1 - Malti, Tom & Julie’s Lunch with ICC India Employees. Lunch interaction for Malti, Tom, and Julie with ICC India employees. Provides an informal setting to connect with local teams and understand employee perspectives. Hosted by ICC Host."
+      "briefing_book_disc": "All emp meet or big demo. Catalog note: Coordinate nominations 2 weeks ahead.",
+      "room_fit": "All emp meet or big demo",
+      "display_description": "An informal lunch interaction for Malti, Tom, and Julie with ICC India employees. The session provides a relaxed setting to connect with local teams and hear employee perspectives. Placed within the visit flow as a meal-based touchpoint, it supports open conversation and a more grounded view of the workplace. The format helps balance the executive agenda with direct engagement across the organization.",
+      "narration_script": "Day 1 - Malti, Tom & Julie’s Lunch with ICC India Employees. An informal lunch interaction for Malti, Tom, and Julie with ICC India employees. The session provides a relaxed setting to connect with local teams and hear employee perspectives. Placed within the visit flow as a meal-based touchpoint, it supports open conversation and a more grounded view of the workplace. The format helps balance the executive agenda with direct engagement across the organization. Hosted by ICC Host."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 5,
       "time": "12:15 - 13:15",
       "topic": "CFT Family Pizza with Jennifer West",
@@ -762,14 +762,14 @@
       "preferred_image": "office_lunch.jpg",
       "briefing_book_disc": "Small group demos, conversations.",
       "room_fit": "Small group demos, conversations",
-      "display_description": "Informal CFT team lunch with Jennifer West, Yau, and RK. Enables open interaction, team connection, and a relaxed discussion with the CFT group.",
-      "narration_script": "Day 1 - CFT Family Pizza with Jennifer West. Informal CFT team lunch with Jennifer West, Yau, and RK. Enables open interaction, team connection, and a relaxed discussion with the CFT group. Hosted by Yau / Jen / RK."
+      "display_description": "An informal CFT team lunch with Jennifer West, Yau, and RK. The session enables open interaction, team connection, and a relaxed discussion with the CFT group. This meal-based gathering adds a lighter, conversational rhythm to the agenda while still supporting meaningful exchange. It helps strengthen rapport and creates space for team-level perspectives in an informal setting.",
+      "narration_script": "Day 1 - CFT Family Pizza with Jennifer West. An informal CFT team lunch with Jennifer West, Yau, and RK. The session enables open interaction, team connection, and a relaxed discussion with the CFT group. This meal-based gathering adds a lighter, conversational rhythm to the agenda while still supporting meaningful exchange. It helps strengthen rapport and creates space for team-level perspectives in an informal setting. Hosted by Yau / Jen / RK."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 6,
       "time": "13:30 - 14:15",
       "topic": "CFT Coffee Session",
@@ -783,14 +783,14 @@
       "preferred_image": "office_break_room.jpg",
       "briefing_book_disc": "AI demos, innovation showcases.",
       "room_fit": "AI demos, innovation showcases",
-      "display_description": "Coffee session with Yau, Jen, RK, and the CFT team. Designed for informal conversation, local engagement, and team-level exchange.",
-      "narration_script": "Day 1 - CFT Coffee Session. Coffee session with Yau, Jen, RK, and the CFT team. Designed for informal conversation, local engagement, and team-level exchange. Hosted by Yau / Jen / RK."
+      "display_description": "A coffee session with Yau, Jen, RK, and the CFT team. The format is designed for informal conversation, local engagement, and team-level exchange. Placed as a short, flexible touchpoint in the agenda, it supports connection without interrupting the broader flow of the day. The session offers a simple setting for dialogue and relationship-building across the group.",
+      "narration_script": "Day 1 - CFT Coffee Session. A coffee session with Yau, Jen, RK, and the CFT team. The format is designed for informal conversation, local engagement, and team-level exchange. Placed as a short, flexible touchpoint in the agenda, it supports connection without interrupting the broader flow of the day. The session offers a simple setting for dialogue and relationship-building across the group. Hosted by Yau / Jen / RK."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 7,
       "time": "14:45 - 15:10",
       "topic": "Demo on Enterprise Learning and Connected Ecosystem",
@@ -802,17 +802,17 @@
       "category": "Demo",
       "status": "Confirmed",
       "preferred_image": "office_meeting_room.jpg",
-      "briefing_book_disc": "Demos, focused sessions. Owner role: Data Scientist. Owner topics: AI agents, synthetic data, AI Forward.",
-      "room_fit": "Demos, focused sessions",
+      "briefing_book_disc": "All emp meet or big demo. Owner role: Data Scientist. Owner topics: AI agents, synthetic data, AI Forward.",
+      "room_fit": "All emp meet or big demo",
       "owner_role": "Data Scientist",
-      "display_description": "Showcase of the enterprise learning and connected data ecosystem capabilities. Demonstrates how learning, knowledge, and data signals can improve visibility and scalable decision-making.",
-      "narration_script": "Day 1 - Demo on Enterprise Learning and Connected Ecosystem. Showcase of the enterprise learning and connected data ecosystem capabilities. Demonstrates how learning, knowledge, and data signals can improve visibility and scalable decision-making. Hosted by Faizan Ashraf."
+      "display_description": "A showcase of the enterprise learning and connected data ecosystem capabilities. The session demonstrates how learning, knowledge, and data signals can improve visibility and support scalable decision-making. As a demo within the visit, it adds a capability-focused lens to the program and helps connect the leadership agenda with practical enablement. The content is positioned to show how these elements come together in a way that supports broader business needs.",
+      "narration_script": "Day 1 - Demo on Enterprise Learning and Connected Ecosystem. A showcase of the enterprise learning and connected data ecosystem capabilities. The session demonstrates how learning, knowledge, and data signals can improve visibility and support scalable decision-making. As a demo within the visit, it adds a capability-focused lens to the program and helps connect the leadership agenda with practical enablement. The content is positioned to show how these elements come together in a way that supports broader business needs. Hosted by Faizan Ashraf."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 8,
       "time": "15:15 - 15:45",
       "topic": "Gather with Gabriele Ricci – Group 1",
@@ -826,14 +826,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Small-group interaction with selected colleagues for open discussion with Gabriele Ricci. Focused on talent stories, leadership access, and candid exchange.",
-      "narration_script": "Day 1 - Gather with Gabriele Ricci – Group 1. Small-group interaction with selected colleagues for open discussion with Gabriele Ricci. Focused on talent stories, leadership access, and candid exchange. Hosted by ICC Host."
+      "display_description": "A small-group interaction with selected colleagues for open discussion with Gabriele Ricci. The session is focused on talent stories, leadership access, and candid exchange. This format creates a more personal setting within the visit flow, allowing voices from the group to be heard directly. It adds depth to the leadership program by bringing forward local perspectives in an informal way.",
+      "narration_script": "Day 1 - Gather with Gabriele Ricci – Group 1. A small-group interaction with selected colleagues for open discussion with Gabriele Ricci. The session is focused on talent stories, leadership access, and candid exchange. This format creates a more personal setting within the visit flow, allowing voices from the group to be heard directly. It adds depth to the leadership program by bringing forward local perspectives in an informal way. Hosted by ICC Host."
     },
     {
       "day": 1,
       "date": "June 8, 2026",
       "day_title": "DD&T Leaders Interaction with Local Talent",
-      "day_theme": "Welcome and executive context setting",
+      "day_theme": "Arrival, site orientation, and leadership alignment",
       "event_no": 9,
       "time": "15:50 - 16:20",
       "topic": "Gather with Gabriele Ricci – Group 2",
@@ -847,14 +847,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Second small-group interaction to extend leadership access to another selected cohort. Creates space for informal Q&A, local talent visibility, and connection.",
-      "narration_script": "Day 1 - Gather with Gabriele Ricci – Group 2. Second small-group interaction to extend leadership access to another selected cohort. Creates space for informal Q&A, local talent visibility, and connection. Hosted by ICC Host."
+      "display_description": "A second small-group interaction that extends leadership access to another selected cohort. The session creates space for informal Q&A, local talent visibility, and connection. Placed alongside the first group gathering, it broadens participation while keeping the discussion intimate and conversational. The result is a balanced opportunity for engagement across different colleagues and perspectives.",
+      "narration_script": "Day 1 - Gather with Gabriele Ricci – Group 2. A second small-group interaction that extends leadership access to another selected cohort. The session creates space for informal Q&A, local talent visibility, and connection. Placed alongside the first group gathering, it broadens participation while keeping the discussion intimate and conversational. The result is a balanced opportunity for engagement across different colleagues and perspectives. Hosted by ICC Host."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 1,
       "time": "08:45 - 09:00",
       "topic": "Arrival & Welcome",
@@ -868,14 +868,14 @@
       "preferred_image": "office_arrival.jpg",
       "briefing_book_disc": "Welcome, Arrival. Catalog note: Always day 1 first slot.",
       "room_fit": "Welcome, Arrival",
-      "display_description": "Reception at ICC India with access support and transition to the Day 2 venue. Prepares all visitors for the ICC capability immersion.",
-      "narration_script": "Day 2 - Arrival & Welcome. Reception at ICC India with access support and transition to the Day 2 venue. Prepares all visitors for the ICC capability immersion. Hosted by ICC Host."
+      "display_description": "Reception at ICC India with access support and a smooth transition to the Day 2 venue. This opening step prepares visitors for the capability immersion that follows. The welcome provides continuity from arrival into the next phase of the program, helping the day begin in an organized and composed way. It also sets the stage for a more immersive sequence of sessions and walkthroughs.",
+      "narration_script": "Day 2 - Arrival & Welcome. Reception at ICC India with access support and a smooth transition to the Day 2 venue. This opening step prepares visitors for the capability immersion that follows. The welcome provides continuity from arrival into the next phase of the program, helping the day begin in an organized and composed way. It also sets the stage for a more immersive sequence of sessions and walkthroughs. Hosted by ICC Host."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 2,
       "time": "09:00 - 09:30",
       "topic": "Welcome & Setting the Context",
@@ -890,14 +890,14 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Head of ICC India",
-      "display_description": "Introductions, visit objectives, and framing of the strategic opportunity for GCM expansion through ICC capabilities. Aligns leaders on expected outcomes.",
-      "narration_script": "Day 2 - Welcome & Setting the Context. Introductions, visit objectives, and framing of the strategic opportunity for GCM expansion through ICC capabilities. Aligns leaders on expected outcomes. Hosted by Tilak / Nara."
+      "display_description": "Introductions, visit objectives, and framing of the strategic opportunity for GCM expansion through ICC capabilities. The session aligns leaders on the purpose of the day and the outcomes expected from the visit. As the opening leadership discussion, it provides context for the capability sessions that follow and helps anchor the agenda around shared priorities. The framing supports a clear transition from arrival into substantive immersion.",
+      "narration_script": "Day 2 - Welcome & Setting the Context. Introductions, visit objectives, and framing of the strategic opportunity for GCM expansion through ICC capabilities. The session aligns leaders on the purpose of the day and the outcomes expected from the visit. As the opening leadership discussion, it provides context for the capability sessions that follow and helps anchor the agenda around shared priorities. The framing supports a clear transition from arrival into substantive immersion. Hosted by Tilak / Nara."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 3,
       "time": "09:30 - 09:45",
       "topic": "Innovation Space Transition & Facility Walkthrough",
@@ -912,14 +912,14 @@
       "briefing_book_disc": "Small group demos, conversations. Owner role: Head of ICC India. Owner topics: ICC overview, strategy, leadership, wrap-up.",
       "room_fit": "Small group demos, conversations",
       "owner_role": "Head of ICC India",
-      "display_description": "Guided transition and walkthrough of key ICC innovation areas. Helps visiting leaders experience the collaboration environment and site culture.",
-      "narration_script": "Day 2 - Innovation Space Transition & Facility Walkthrough. Guided transition and walkthrough of key ICC innovation areas. Helps visiting leaders experience the collaboration environment and site culture. Hosted by Esha."
+      "display_description": "A guided transition and walkthrough of key ICC innovation areas. The session helps visiting leaders experience the collaboration environment and understand the site culture firsthand. This movement-based segment adds texture to the visit by connecting one session to the next through a shared physical experience of the space. It also offers a practical introduction to the innovation setting before the capability demonstrations begin.",
+      "narration_script": "Day 2 - Innovation Space Transition & Facility Walkthrough. A guided transition and walkthrough of key ICC innovation areas. The session helps visiting leaders experience the collaboration environment and understand the site culture firsthand. This movement-based segment adds texture to the visit by connecting one session to the next through a shared physical experience of the space. It also offers a practical introduction to the innovation setting before the capability demonstrations begin. Hosted by Esha."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 4,
       "time": "09:45 - 10:25",
       "topic": "Transforming Market Access Through AI & Automation",
@@ -934,14 +934,14 @@
       "briefing_book_disc": "Small group demos, conversations. Owner role: AI/ML Lead. Owner topics: AI demos, technology spotlights, Tomodachi.",
       "room_fit": "Small group demos, conversations",
       "owner_role": "AI/ML Lead",
-      "display_description": "Showcase of integrated data, AI, and automation capabilities streamlining Market Access and Pricing operations. Demonstrates scalable business transformation opportunities.",
-      "narration_script": "Day 2 - Transforming Market Access Through AI & Automation. Showcase of integrated data, AI, and automation capabilities streamlining Market Access and Pricing operations. Demonstrates scalable business transformation opportunities. Hosted by Angelaa Kaur / Arpit."
+      "display_description": "A showcase of integrated data, AI, and automation capabilities that streamline Market Access and Pricing operations. The session demonstrates scalable business transformation opportunities through a focused capability lens. Positioned as a demo, it brings a concrete example of how technology and process can work together in support of operational improvement. The content fits naturally within the immersion flow as a substantive business showcase.",
+      "narration_script": "Day 2 - Transforming Market Access Through AI & Automation. A showcase of integrated data, AI, and automation capabilities that streamline Market Access and Pricing operations. The session demonstrates scalable business transformation opportunities through a focused capability lens. Positioned as a demo, it brings a concrete example of how technology and process can work together in support of operational improvement. The content fits naturally within the immersion flow as a substantive business showcase. Hosted by Angelaa Kaur / Arpit."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 5,
       "time": "10:25 - 10:50",
       "topic": "Networking Break & PDT Labs Walkthrough",
@@ -959,14 +959,14 @@
       "demo_owner": "Amanda",
       "room_fit": "Townhalls, Q&A, Large group sessions",
       "owner_role": "Workplace / Culture Lead",
-      "display_description": "Networking break with transition to the 11th floor and informal immersion into ICC innovation spaces. Provides time for movement and informal discussion.",
-      "narration_script": "Day 2 - Networking Break & PDT Labs Walkthrough. Networking break with transition to the 11th floor and informal immersion into ICC innovation spaces. Provides time for movement and informal discussion. Hosted by Esha."
+      "display_description": "A networking break with transition to the 11th floor and an informal immersion into ICC innovation spaces. The pause provides time for movement while keeping conversation and engagement flowing. This interlude helps reset the pace between sessions and creates room for informal discussion along the way. It also supports a smooth shift into the next set of capability-focused conversations.",
+      "narration_script": "Day 2 - Networking Break & PDT Labs Walkthrough. A networking break with transition to the 11th floor and an informal immersion into ICC innovation spaces. The pause provides time for movement while keeping conversation and engagement flowing. This interlude helps reset the pace between sessions and creates room for informal discussion along the way. It also supports a smooth shift into the next set of capability-focused conversations. Hosted by Esha."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 6,
       "time": "10:50 - 11:30",
       "topic": "Building Scalable Data Products and Foundations for IBU",
@@ -981,14 +981,14 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: AI/ML Lead. Owner topics: AI demos, technology spotlights, Tomodachi.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "AI/ML Lead",
-      "display_description": "Overview of TODAI, I4I, Data Pulse, and MDM as connected insight and data foundation enablers. Shows how these platforms support future-ready business capabilities.",
-      "narration_script": "Day 2 - Building Scalable Data Products and Foundations for IBU. Overview of TODAI, I4I, Data Pulse, and MDM as connected insight and data foundation enablers. Shows how these platforms support future-ready business capabilities. Hosted by Madhu / Vimal."
+      "display_description": "An overview of TODAI, I4I, Data Pulse, and MDM as connected insight and data foundation enablers. The session shows how these platforms support future-ready business capabilities. Placed within the capability sequence, it adds a structured view of the data foundations behind broader business enablement. The discussion helps leaders see how the elements connect across the operating model.",
+      "narration_script": "Day 2 - Building Scalable Data Products and Foundations for IBU. An overview of TODAI, I4I, Data Pulse, and MDM as connected insight and data foundation enablers. The session shows how these platforms support future-ready business capabilities. Placed within the capability sequence, it adds a structured view of the data foundations behind broader business enablement. The discussion helps leaders see how the elements connect across the operating model. Hosted by Madhu / Vimal."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 7,
       "time": "11:30 - 11:40",
       "topic": "Networking Break and Transition",
@@ -1002,14 +1002,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Catalog note: Insert every ~2 hours.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Short movement and refreshment buffer between capability sessions. Keeps the agenda flowing while enabling informal leadership conversations.",
-      "narration_script": "Day 2 - Networking Break and Transition. Short movement and refreshment buffer between capability sessions. Keeps the agenda flowing while enabling informal leadership conversations. Hosted by ICC Host."
+      "display_description": "A short movement and refreshment buffer between capability sessions. The break keeps the agenda flowing while allowing informal leadership conversations to continue. This pause provides a practical reset before the next discussion begins. It also helps maintain a steady pace across the day without losing momentum.",
+      "narration_script": "Day 2 - Networking Break and Transition. A short movement and refreshment buffer between capability sessions. The break keeps the agenda flowing while allowing informal leadership conversations to continue. This pause provides a practical reset before the next discussion begins. It also helps maintain a steady pace across the day without losing momentum. Hosted by ICC Host."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 8,
       "time": "11:40 - 12:20",
       "topic": "Showcasing CEE–Commercial Chapter partnership, CXF platform enablement, and talent readiness to scale CXF globally.",
@@ -1024,14 +1024,14 @@
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Owner role: Innovation Lead. Owner topics: Innovate Exchange, Commercial Experience.",
       "room_fit": "Leadership, Roundtables, Strategic",
       "owner_role": "Innovation Lead",
-      "display_description": "Showcase of CEE–Commercial chapter partnership, CXF platform enablement, and ICC talent readiness. Focuses on how ICC can help scale CXF globally.",
-      "narration_script": "Day 2 - Showcasing CEE–Commercial Chapter partnership, CXF platform enablement, and talent readiness to scale CXF globally.. Showcase of CEE–Commercial chapter partnership, CXF platform enablement, and ICC talent readiness. Focuses on how ICC can help scale CXF globally. Hosted by Nara / Subhajit."
+      "display_description": "A showcase of CEE–Commercial chapter partnership, CXF platform enablement, and ICC talent readiness. The session focuses on how ICC can help scale CXF globally. Within the broader program, this segment adds a cross-functional and capability-oriented perspective to the visit. It brings together partnership, platform, and talent themes in a way that supports the scaling discussion.",
+      "narration_script": "Day 2 - Showcasing CEE–Commercial Chapter partnership, CXF platform enablement, and talent readiness to scale CXF globally.. A showcase of CEE–Commercial chapter partnership, CXF platform enablement, and ICC talent readiness. The session focuses on how ICC can help scale CXF globally. Within the broader program, this segment adds a cross-functional and capability-oriented perspective to the visit. It brings together partnership, platform, and talent themes in a way that supports the scaling discussion. Hosted by Nara / Subhajit."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 9,
       "time": "12:20 - 13:10",
       "topic": "Leadership Roundtable Lunch with ICC Digital Associates",
@@ -1045,14 +1045,14 @@
       "preferred_image": "office_lunch.jpg",
       "briefing_book_disc": "Small group demos, conversations.",
       "room_fit": "Small group demos, conversations",
-      "display_description": "Interactive networking lunch enabling small-group discussions between IBU leaders and ICC digital talent. Explores innovation culture, career journeys, and workforce models supporting GCM growth.",
-      "narration_script": "Day 2 - Leadership Roundtable Lunch with ICC Digital Associates. Interactive networking lunch enabling small-group discussions between IBU leaders and ICC digital talent. Explores innovation culture, career journeys, and workforce models supporting GCM growth. Hosted by ICC Digital Talent Team."
+      "display_description": "An interactive networking lunch that enables small-group discussions between IBU leaders and ICC digital talent. The session explores innovation culture, career journeys, and workforce models supporting GCM growth. As a meal-based leadership touchpoint, it creates a more personal setting for exchange while still staying connected to the strategic agenda. The format helps bring talent and leadership perspectives together in a relaxed environment.",
+      "narration_script": "Day 2 - Leadership Roundtable Lunch with ICC Digital Associates. An interactive networking lunch that enables small-group discussions between IBU leaders and ICC digital talent. The session explores innovation culture, career journeys, and workforce models supporting GCM growth. As a meal-based leadership touchpoint, it creates a more personal setting for exchange while still staying connected to the strategic agenda. The format helps bring talent and leadership perspectives together in a relaxed environment. Hosted by ICC Digital Talent Team."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 10,
       "time": "13:10 - 13:30",
       "topic": "Udaan Horizon & Innovation Spaces Tour",
@@ -1067,14 +1067,14 @@
       "briefing_book_disc": "AI demos, innovation showcases. Owner role: Workplace / Culture Lead. Owner topics: Office tour, ICC experience.",
       "room_fit": "AI demos, innovation showcases",
       "owner_role": "Workplace / Culture Lead",
-      "display_description": "Transition to the 12th floor and walkthrough of collaboration and innovation spaces. Highlights Udaan Horizon, the Tech Bar, and practical innovation areas across ICC.",
-      "narration_script": "Day 2 - Udaan Horizon & Innovation Spaces Tour. Transition to the 12th floor and walkthrough of collaboration and innovation spaces. Highlights Udaan Horizon, the Tech Bar, and practical innovation areas across ICC. Hosted by Esha."
+      "display_description": "A transition to the 12th floor followed by a walkthrough of collaboration and innovation spaces. The tour highlights Udaan Horizon, the Tech Bar, and practical innovation areas across ICC. This segment adds movement and visual context to the visit, helping leaders experience the environment beyond the meeting rooms. It serves as a bridge between formal sessions and the more hands-on innovation showcase.",
+      "narration_script": "Day 2 - Udaan Horizon & Innovation Spaces Tour. A transition to the 12th floor followed by a walkthrough of collaboration and innovation spaces. The tour highlights Udaan Horizon, the Tech Bar, and practical innovation areas across ICC. This segment adds movement and visual context to the visit, helping leaders experience the environment beyond the meeting rooms. It serves as a bridge between formal sessions and the more hands-on innovation showcase. Hosted by Esha."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 11,
       "time": "13:30 - 14:30",
       "topic": "AI Forward: Scaling Enterprise Productivity Through AI",
@@ -1089,14 +1089,14 @@
       "briefing_book_disc": "AI demos, innovation showcases. Owner role: AI/ML Lead. Owner topics: AI demos, technology spotlights, Tomodachi.",
       "room_fit": "AI demos, innovation showcases",
       "owner_role": "AI/ML Lead",
-      "display_description": "Showcase of AI-enabled development and engineering capabilities accelerating DD&T productivity. Includes live demonstrations supporting R&D innovation.",
-      "narration_script": "Day 2 - AI Forward: Scaling Enterprise Productivity Through AI. Showcase of AI-enabled development and engineering capabilities accelerating DD&T productivity. Includes live demonstrations supporting R&D innovation. Hosted by Madhu / Falguni."
+      "display_description": "A showcase of AI-enabled development and engineering capabilities that accelerate DD&T productivity. The session includes live demonstrations supporting R&D innovation. As a demo, it brings a practical and forward-looking dimension to the agenda, showing how AI can support productivity and engineering work. The content fits naturally within the innovation flow of the day.",
+      "narration_script": "Day 2 - AI Forward: Scaling Enterprise Productivity Through AI. A showcase of AI-enabled development and engineering capabilities that accelerate DD&T productivity. The session includes live demonstrations supporting R&D innovation. As a demo, it brings a practical and forward-looking dimension to the agenda, showing how AI can support productivity and engineering work. The content fits naturally within the innovation flow of the day. Hosted by Madhu / Falguni."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 12,
       "time": "14:30 - 15:00",
       "topic": "Innovation & Culture Experience Tour",
@@ -1111,14 +1111,14 @@
       "briefing_book_disc": "AI demos, innovation showcases. Owner role: Culture / CVG Lead. Owner topics: Culture, values, employee engagement.",
       "room_fit": "AI demos, innovation showcases",
       "owner_role": "Culture / CVG Lead",
-      "display_description": "Experience tour covering ICC culture and engagement spaces, including the Intangible Bonds Wall and CVG overview. Connects innovation with culture and community.",
-      "narration_script": "Day 2 - Innovation & Culture Experience Tour. Experience tour covering ICC culture and engagement spaces, including the Intangible Bonds Wall and CVG overview. Connects innovation with culture and community. Hosted by Esha / Pallavi."
+      "display_description": "An experience tour covering ICC culture and engagement spaces, including the Intangible Bonds Wall and CVG overview. The session connects innovation with culture and community. This tour adds a human and visual layer to the visit, complementing the capability sessions with a broader sense of place. It helps round out the immersion by showing how culture is reflected in the environment.",
+      "narration_script": "Day 2 - Innovation & Culture Experience Tour. An experience tour covering ICC culture and engagement spaces, including the Intangible Bonds Wall and CVG overview. The session connects innovation with culture and community. This tour adds a human and visual layer to the visit, complementing the capability sessions with a broader sense of place. It helps round out the immersion by showing how culture is reflected in the environment. Hosted by Esha / Pallavi."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 13,
       "time": "15:00 - 15:15",
       "topic": "Break & Transition to 11th Floor",
@@ -1132,14 +1132,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic. Catalog note: Insert every ~2 hours.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Short break and transition back to the 11th floor before the enterprise content showcase. Provides a reset before the closing capability sessions.",
-      "narration_script": "Day 2 - Break & Transition to 11th Floor. Short break and transition back to the 11th floor before the enterprise content showcase. Provides a reset before the closing capability sessions. Hosted by ICC Host."
+      "display_description": "A short break and transition back to the 11th floor before the enterprise content showcase. The pause provides a reset ahead of the closing capability sessions. This brief interlude helps maintain a comfortable pace while marking the shift into the final part of the program. It supports a smooth return to the discussion space for the next session.",
+      "narration_script": "Day 2 - Break & Transition to 11th Floor. A short break and transition back to the 11th floor before the enterprise content showcase. The pause provides a reset ahead of the closing capability sessions. This brief interlude helps maintain a comfortable pace while marking the shift into the final part of the program. It supports a smooth return to the discussion space for the next session. Hosted by ICC Host."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 14,
       "time": "15:15 - 16:00",
       "topic": "Showcasing Enterprise Content Innovation Capabilities built in ICC",
@@ -1153,14 +1153,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Showcase of ICC-built enterprise content innovation capabilities and their role in scalable content operations. Covers reuse, speed, quality, and business impact.",
-      "narration_script": "Day 2 - Showcasing Enterprise Content Innovation Capabilities built in ICC. Showcase of ICC-built enterprise content innovation capabilities and their role in scalable content operations. Covers reuse, speed, quality, and business impact. Hosted by Rahul Mohan / Tiana Hosmani."
+      "display_description": "A showcase of ICC-built enterprise content innovation capabilities and their role in scalable content operations. The session covers reuse, speed, quality, and business impact. Placed near the close of the immersion, it reinforces the practical value of the capabilities being presented throughout the day. The discussion brings together operational themes in a concise and executive-friendly format.",
+      "narration_script": "Day 2 - Showcasing Enterprise Content Innovation Capabilities built in ICC. A showcase of ICC-built enterprise content innovation capabilities and their role in scalable content operations. The session covers reuse, speed, quality, and business impact. Placed near the close of the immersion, it reinforces the practical value of the capabilities being presented throughout the day. The discussion brings together operational themes in a concise and executive-friendly format. Hosted by Rahul Mohan / Tiana Hosmani."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 15,
       "time": "16:00 - 17:10",
       "topic": "External Perspectives & Ecosystem Roundtable",
@@ -1174,14 +1174,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Roundtable with industry and strategic partners on the evolving GCC ecosystem, innovation trends, talent, and future capability centers. Brings external perspective into ICC growth planning.",
-      "narration_script": "Day 2 - External Perspectives & Ecosystem Roundtable. Roundtable with industry and strategic partners on the evolving GCC ecosystem, innovation trends, talent, and future capability centers. Brings external perspective into ICC growth planning. Hosted by ICC Leadership Team."
+      "display_description": "A roundtable with industry and strategic partners on the evolving GCC ecosystem, innovation trends, talent, and future capability centers. The session brings external perspective into ICC growth planning. This discussion broadens the visit beyond the internal site experience and adds context from the wider ecosystem. It helps frame the capabilities seen during the day within a larger market and talent landscape.",
+      "narration_script": "Day 2 - External Perspectives & Ecosystem Roundtable. A roundtable with industry and strategic partners on the evolving GCC ecosystem, innovation trends, talent, and future capability centers. The session brings external perspective into ICC growth planning. This discussion broadens the visit beyond the internal site experience and adds context from the wider ecosystem. It helps frame the capabilities seen during the day within a larger market and talent landscape. Hosted by ICC Leadership Team."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 16,
       "time": "17:10 - 17:55",
       "topic": "Key Takeaways, Reflections & Opportunities Ahead",
@@ -1195,14 +1195,14 @@
       "preferred_image": "Himalaya_Takeda.png",
       "briefing_book_disc": "Leadership, Roundtables, Strategic.",
       "room_fit": "Leadership, Roundtables, Strategic",
-      "display_description": "Discussion on strategic insights from the immersion experience and opportunities to accelerate the next phase of GCM expansion for IBU. Captures reflections and follow-up priorities.",
-      "narration_script": "Day 2 - Key Takeaways, Reflections & Opportunities Ahead. Discussion on strategic insights from the immersion experience and opportunities to accelerate the next phase of GCM expansion for IBU. Captures reflections and follow-up priorities. Hosted by Sanjay."
+      "display_description": "A discussion on strategic insights from the immersion experience and opportunities to accelerate the next phase of GCM expansion for IBU. The session captures reflections and follow-up priorities. As a closing conversation, it helps consolidate the day’s themes and bring the visit toward a shared understanding of what comes next. The format supports reflection while keeping attention on practical next steps.",
+      "narration_script": "Day 2 - Key Takeaways, Reflections & Opportunities Ahead. A discussion on strategic insights from the immersion experience and opportunities to accelerate the next phase of GCM expansion for IBU. The session captures reflections and follow-up priorities. As a closing conversation, it helps consolidate the day’s themes and bring the visit toward a shared understanding of what comes next. The format supports reflection while keeping attention on practical next steps. Hosted by Sanjay."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 17,
       "time": "17:55 - 18:15",
       "topic": "Transit for Dinner",
@@ -1215,14 +1215,14 @@
       "status": "Confirmed",
       "preferred_image": "transit.jpg",
       "briefing_book_disc": "This session focuses on Transit for Dinner. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Coordinated departure from ICC to the dinner venue for visiting leaders and hosts. Ensures smooth movement and timely arrival.",
-      "narration_script": "Day 2 - Transit for Dinner. Coordinated departure from ICC to the dinner venue for visiting leaders and hosts. Ensures smooth movement and timely arrival. Hosted by ICC Host."
+      "display_description": "Coordinated departure from ICC to the dinner venue for visiting leaders and hosts. The movement is arranged to ensure smooth travel and timely arrival. This transition marks the shift from the day’s formal program into the evening portion of the visit. It provides a clear and orderly handoff between locations.",
+      "narration_script": "Day 2 - Transit for Dinner. Coordinated departure from ICC to the dinner venue for visiting leaders and hosts. The movement is arranged to ensure smooth travel and timely arrival. This transition marks the shift from the day’s formal program into the evening portion of the visit. It provides a clear and orderly handoff between locations. Hosted by ICC Host."
     },
     {
       "day": 2,
       "date": "June 9, 2026",
       "day_title": "Exploring how ICC India’s capabilities can accelerate the next phase of GCM expansion for IBU",
-      "day_theme": "Deep dive into data and AI capabilities",
+      "day_theme": "Showcase AI capabilities and business use cases",
       "event_no": 18,
       "time": "18:30 - 21:00",
       "topic": "Dinner",
@@ -1235,14 +1235,14 @@
       "status": "Confirmed",
       "preferred_image": "Leela_hotel.jpg",
       "briefing_book_disc": "This session focuses on Dinner. It gives leaders a concise view of the session purpose, people involved, and the conversation flow to expect.",
-      "display_description": "Leadership dinner to continue informal dialogue and relationship-building after the ICC capability immersion. Focused on reflections, alignment, and next-step opportunities.",
-      "narration_script": "Day 2 - Dinner. Leadership dinner to continue informal dialogue and relationship-building after the ICC capability immersion. Focused on reflections, alignment, and next-step opportunities. Hosted by ICC Host."
+      "display_description": "A leadership dinner that continues informal dialogue and relationship-building after the ICC capability immersion. The evening is focused on reflections, alignment, and next-step opportunities. The dinner extends the day’s conversations into a more relaxed setting, allowing the group to revisit key themes without the structure of the daytime agenda. It offers a natural close to the immersion experience.",
+      "narration_script": "Day 2 - Dinner. A leadership dinner that continues informal dialogue and relationship-building after the ICC capability immersion. The evening is focused on reflections, alignment, and next-step opportunities. The dinner extends the day’s conversations into a more relaxed setting, allowing the group to revisit key themes without the structure of the daytime agenda. It offers a natural close to the immersion experience. Hosted by ICC Host."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 1,
       "time": "07:00 - 09:00",
       "topic": "Transit to Accenture Innovation Hub (Bellandur) from Hotel Leela",
@@ -1256,14 +1256,14 @@
       "preferred_image": "transit.jpg",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Travel from Hotel Leela to Accenture Innovation Hub, Bellandur. Destination: Building 14, Pritech Park, Adarsh Palm Retreat, Bellandur, Bengaluru.",
-      "narration_script": "Day 3 - Transit to Accenture Innovation Hub (Bellandur) from Hotel Leela. Travel from Hotel Leela to Accenture Innovation Hub, Bellandur. Destination: Building 14, Pritech Park, Adarsh Palm Retreat, Bellandur, Bengaluru. Hosted by ICC Host / Accenture Host."
+      "display_description": "Travel from Hotel Leela to Accenture Innovation Hub, Bellandur. The route is identified as Building 14, Pritech Park, Adarsh Palm Retreat, Bellandur, Bengaluru. This travel segment provides the necessary movement into the next visit location and keeps the schedule coordinated. It serves as a straightforward transition before the innovation hub program begins.",
+      "narration_script": "Day 3 - Transit to Accenture Innovation Hub (Bellandur) from Hotel Leela. Travel from Hotel Leela to Accenture Innovation Hub, Bellandur. The route is identified as Building 14, Pritech Park, Adarsh Palm Retreat, Bellandur, Bengaluru. This travel segment provides the necessary movement into the next visit location and keeps the schedule coordinated. It serves as a straightforward transition before the innovation hub program begins. Hosted by ICC Host / Accenture Host."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 2,
       "time": "09:00 - 09:15",
       "topic": "Welcome & Introductions",
@@ -1277,14 +1277,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Opening welcome at Accenture with introductions and visit orientation. Establishes context before the innovation hub sessions begin.",
-      "narration_script": "Day 3 - Welcome & Introductions. Opening welcome at Accenture with introductions and visit orientation. Establishes context before the innovation hub sessions begin. Hosted by RK."
+      "display_description": "An opening welcome at Accenture with introductions and visit orientation. The session establishes context before the innovation hub sessions begin. As the first stop in the visit flow, it creates a clear starting point for the day’s discussions and demonstrations. The welcome helps orient the group before moving into the substantive agenda.",
+      "narration_script": "Day 3 - Welcome & Introductions. An opening welcome at Accenture with introductions and visit orientation. The session establishes context before the innovation hub sessions begin. As the first stop in the visit flow, it creates a clear starting point for the day’s discussions and demonstrations. The welcome helps orient the group before moving into the substantive agenda. Hosted by RK."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 3,
       "time": "09:15 - 10:00",
       "topic": "Platform Led Delivery approach and Demos",
@@ -1298,14 +1298,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Overview of Accenture’s platform-led delivery model with supporting demos. Shows how delivery accelerators support scale, speed, and quality.",
-      "narration_script": "Day 3 - Platform Led Delivery approach and Demos. Overview of Accenture’s platform-led delivery model with supporting demos. Shows how delivery accelerators support scale, speed, and quality. Hosted by RK / Accenture Team."
+      "display_description": "An overview of Accenture’s platform-led delivery model with supporting demos. The session shows how delivery accelerators support scale, speed, and quality. This capability segment adds a practical lens to the visit by illustrating the delivery approach through examples and demonstrations. It fits naturally after the welcome and helps set up the working discussions that follow.",
+      "narration_script": "Day 3 - Platform Led Delivery approach and Demos. An overview of Accenture’s platform-led delivery model with supporting demos. The session shows how delivery accelerators support scale, speed, and quality. This capability segment adds a practical lens to the visit by illustrating the delivery approach through examples and demonstrations. It fits naturally after the welcome and helps set up the working discussions that follow. Hosted by RK / Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 4,
       "time": "10:00 - 11:30",
       "topic": "The pressures and how we change the way we work across cost, speed, risk, talent and technology.",
@@ -1319,14 +1319,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Working session on operating pressures across cost, speed, risk, talent, and technology. Focuses on practical ways to evolve delivery and collaboration.",
-      "narration_script": "Day 3 - The pressures and how we change the way we work across cost, speed, risk, talent and technology.. Working session on operating pressures across cost, speed, risk, talent, and technology. Focuses on practical ways to evolve delivery and collaboration. Hosted by Accenture Team."
+      "display_description": "A working session on operating pressures across cost, speed, risk, talent, and technology. The discussion focuses on practical ways to evolve delivery and collaboration. Placed after the delivery overview, it deepens the conversation by moving from model to operating realities. The session provides a thoughtful context for examining how work can adapt across multiple dimensions.",
+      "narration_script": "Day 3 - The pressures and how we change the way we work across cost, speed, risk, talent and technology.. A working session on operating pressures across cost, speed, risk, talent, and technology. The discussion focuses on practical ways to evolve delivery and collaboration. Placed after the delivery overview, it deepens the conversation by moving from model to operating realities. The session provides a thoughtful context for examining how work can adapt across multiple dimensions. Hosted by Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 5,
       "time": "11:30 - 11:45",
       "topic": "Break",
@@ -1340,14 +1340,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion. Catalog note: Insert every ~2 hours.",
       "owner_role": "PDT Lead",
-      "display_description": "Short refreshment pause at Accenture before commitment and readiness discussions. Allows leaders to reset and continue informal conversations.",
-      "narration_script": "Day 3 - Break. Short refreshment pause at Accenture before commitment and readiness discussions. Allows leaders to reset and continue informal conversations. Hosted by Accenture Host."
+      "display_description": "A short refreshment pause at Accenture before commitment and readiness discussions. The break allows leaders to reset and continue informal conversations. This pause helps maintain energy and gives the group a moment to reflect before the next working session. It also supports a smooth transition into the more alignment-focused part of the agenda.",
+      "narration_script": "Day 3 - Break. A short refreshment pause at Accenture before commitment and readiness discussions. The break allows leaders to reset and continue informal conversations. This pause helps maintain energy and gives the group a moment to reflect before the next working session. It also supports a smooth transition into the more alignment-focused part of the agenda. Hosted by Accenture Host."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 6,
       "time": "11:45 - 12:15",
       "topic": "What needs to be true – our commitment to each other",
@@ -1361,14 +1361,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Joint alignment discussion on mutual expectations, ways of working, and shared commitments. Clarifies what is needed to make the partnership effective.",
-      "narration_script": "Day 3 - What needs to be true – our commitment to each other. Joint alignment discussion on mutual expectations, ways of working, and shared commitments. Clarifies what is needed to make the partnership effective. Hosted by Accenture Team."
+      "display_description": "A joint alignment discussion on mutual expectations, ways of working, and shared commitments. The session clarifies what is needed to make the partnership effective. This conversation sits at the center of the visit’s working agenda and helps translate earlier discussions into a common understanding. It provides a practical bridge between exploration and execution.",
+      "narration_script": "Day 3 - What needs to be true – our commitment to each other. A joint alignment discussion on mutual expectations, ways of working, and shared commitments. The session clarifies what is needed to make the partnership effective. This conversation sits at the center of the visit’s working agenda and helps translate earlier discussions into a common understanding. It provides a practical bridge between exploration and execution. Hosted by Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 7,
       "time": "12:15 - 12:45",
       "topic": "Transition approach and confirming Service Readiness",
@@ -1382,14 +1382,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Review of transition plan, handover approach, dependencies, and service readiness criteria. Ensures teams are aligned before execution.",
-      "narration_script": "Day 3 - Transition approach and confirming Service Readiness. Review of transition plan, handover approach, dependencies, and service readiness criteria. Ensures teams are aligned before execution. Hosted by Accenture Team."
+      "display_description": "A review of the transition plan, handover approach, dependencies, and service readiness criteria. The session ensures teams are aligned before execution. Following the commitment discussion, this segment brings the focus to readiness and coordination. It supports a structured handoff from planning into the operational details of transition.",
+      "narration_script": "Day 3 - Transition approach and confirming Service Readiness. A review of the transition plan, handover approach, dependencies, and service readiness criteria. The session ensures teams are aligned before execution. Following the commitment discussion, this segment brings the focus to readiness and coordination. It supports a structured handoff from planning into the operational details of transition. Hosted by Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 8,
       "time": "12:45 - 13:30",
       "topic": "Lunch Break",
@@ -1403,14 +1403,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion. Catalog note: Insert every ~2 hours.",
       "owner_role": "PDT Lead",
-      "display_description": "Lunch break at Accenture for visiting leaders and hosts. Provides informal networking space before the afternoon use-case discussion.",
-      "narration_script": "Day 3 - Lunch Break. Lunch break at Accenture for visiting leaders and hosts. Provides informal networking space before the afternoon use-case discussion. Hosted by Accenture Host."
+      "display_description": "A lunch break at Accenture for visiting leaders and hosts. The pause provides informal networking space before the afternoon use-case discussion. This midday break offers a lighter interlude within the working visit and helps sustain the pace of the day. It also creates room for conversation outside the formal session structure.",
+      "narration_script": "Day 3 - Lunch Break. A lunch break at Accenture for visiting leaders and hosts. The pause provides informal networking space before the afternoon use-case discussion. This midday break offers a lighter interlude within the working visit and helps sustain the pace of the day. It also creates room for conversation outside the formal session structure. Hosted by Accenture Host."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 9,
       "time": "13:30 - 14:15",
       "topic": "Use cases beyond AMS/IMS",
@@ -1424,14 +1424,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Discussion of use cases beyond AMS/IMS to identify broader collaboration and innovation opportunities. Explores future-facing business value areas.",
-      "narration_script": "Day 3 - Use cases beyond AMS/IMS. Discussion of use cases beyond AMS/IMS to identify broader collaboration and innovation opportunities. Explores future-facing business value areas. Hosted by Accenture Team."
+      "display_description": "A discussion of use cases beyond AMS/IMS to identify broader collaboration and innovation opportunities. The session explores future-facing business value areas. This segment expands the conversation beyond the core operating scope and opens space for broader possibilities. It adds a forward-looking perspective to the visit’s working agenda.",
+      "narration_script": "Day 3 - Use cases beyond AMS/IMS. A discussion of use cases beyond AMS/IMS to identify broader collaboration and innovation opportunities. The session explores future-facing business value areas. This segment expands the conversation beyond the core operating scope and opens space for broader possibilities. It adds a forward-looking perspective to the visit’s working agenda. Hosted by Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 10,
       "time": "14:15 - 14:30",
       "topic": "Wrap-up",
@@ -1445,14 +1445,14 @@
       "preferred_image": "Accenture.png",
       "briefing_book_disc": "Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "owner_role": "PDT Lead",
-      "display_description": "Recap of key decisions, open items, and next steps from the Accenture visit. Closes the session with aligned follow-ups and ownership.",
-      "narration_script": "Day 3 - Wrap-up. Recap of key decisions, open items, and next steps from the Accenture visit. Closes the session with aligned follow-ups and ownership. Hosted by Accenture Team."
+      "display_description": "A recap of key decisions, open items, and next steps from the Accenture visit. The session closes with aligned follow-ups and ownership. As the final working moment of the day, it helps consolidate the discussion and bring clarity to what comes next. The wrap-up provides a clean and organized close to the visit.",
+      "narration_script": "Day 3 - Wrap-up. A recap of key decisions, open items, and next steps from the Accenture visit. The session closes with aligned follow-ups and ownership. As the final working moment of the day, it helps consolidate the discussion and bring clarity to what comes next. The wrap-up provides a clean and organized close to the visit. Hosted by Accenture Team."
     },
     {
       "day": 3,
       "date": "June 10, 2026",
       "day_title": "Visit to Accenture",
-      "day_theme": "Priorities, feedback and closeout",
+      "day_theme": "Employee connect, culture, and leadership close",
       "event_no": 11,
       "topic": "Gabriele Ricci and Amanda will be back to ICC",
       "description": "Return movement for Gabriele Ricci and Amanda back to ICC after the Accenture visit. Keeps post-visit movement visible for coordination.",
@@ -1465,8 +1465,8 @@
       "briefing_book_disc": "Welcome, Arrival. Owner role: PDT Lead. Owner topics: PDT lab, business immersion.",
       "room_fit": "Welcome, Arrival",
       "owner_role": "PDT Lead",
-      "display_description": "Return movement for Gabriele Ricci and Amanda back to ICC after the Accenture visit. Keeps post-visit movement visible for coordination.",
-      "narration_script": "Day 3 - Gabriele Ricci and Amanda will be back to ICC. Return movement for Gabriele Ricci and Amanda back to ICC after the Accenture visit. Keeps post-visit movement visible for coordination. Hosted by ICC Host."
+      "display_description": "Return movement for Gabriele Ricci and Amanda back to ICC after the Accenture visit. The coordination keeps post-visit movement visible and organized. This final travel segment marks the end of the external visit sequence and supports smooth logistics for the returning guests. It provides a clear closing transition back to ICC India.",
+      "narration_script": "Day 3 - Gabriele Ricci and Amanda will be back to ICC. Return movement for Gabriele Ricci and Amanda back to ICC after the Accenture visit. The coordination keeps post-visit movement visible and organized. This final travel segment marks the end of the external visit sequence and supports smooth logistics for the returning guests. It provides a clear closing transition back to ICC India. Hosted by ICC Host."
     }
   ]
 }
